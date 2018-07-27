@@ -2,4 +2,4 @@
 Hands-on Blockchain network for SRM
 
 
-Please check the Original repo https://github.com/IBM/customer-loyalty-program
+Please check the original repo https://github.com/IBM/customer-loyalty-program
